@@ -1,4 +1,6 @@
-# Hello, World! 🌍
+# Code is my canvas 🎨
 
 ```php
-<?php echo "Hello, World!"; ?>
+<?php
+  echo "Creating masterpieces, one line at a time!";
+?>
