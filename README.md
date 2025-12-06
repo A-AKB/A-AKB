@@ -1,6 +1,4 @@
 # Code is my canvas 🎨
 
-```php
-<?php
-  echo "Creating masterpieces, one line at a time!";
-?>
+```ts
+console.log("Always building. Always refactoring. Always learning.");
